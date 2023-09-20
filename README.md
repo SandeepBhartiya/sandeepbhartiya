@@ -58,4 +58,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sandeepbhartiya&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepBhartiya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Pull Requests](https://img.shields.io/github/issues-pr/sandeepbhartiya/sandeepbhartiya)
+![Pushes](https://img.shields.io/github/commit-activity/m/sandeepbhartiya/sandeepbhartiya)
+
 </div>
