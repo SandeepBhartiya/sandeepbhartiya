@@ -53,7 +53,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-![GitHub Contributions](https://img.shields.io/github/contributions/sandeepbhartiya)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepbhartiya&show_icons=true)
 
