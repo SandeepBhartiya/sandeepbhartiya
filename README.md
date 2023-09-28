@@ -53,6 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=SandeepBhartiya)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepbhartiya&show_icons=true)
 
